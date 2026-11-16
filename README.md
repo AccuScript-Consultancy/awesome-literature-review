@@ -109,6 +109,7 @@ Curated by **AccuScript** — experts in systematic reviews, medical writing, an
 - [Scite](https://scite.ai/) — Citation context analysis with AI
 - [Semantic Scholar](https://www.semanticscholar.org/) — AI-driven academic search engine
 - [Connected Papers](https://www.connectedpapers.com/) — Visual graph of related research papers
+- [JournalCompass](https://journalcompass.com/) — Free bilingual journal search across 43,499 journals with CAS quartile, impact factor, review time, APC, and an AI journal-matching assistant to choose where to publish.
 
 ---
 
